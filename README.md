@@ -1,2 +1,4 @@
 # Dio-PJ1
-primeiro desafio de projeto
+Repositorio criado para o desfio de projeto sobre GIT/GITHUB
+
+## DIO na veia
