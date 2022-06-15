@@ -8,4 +8,4 @@
 ### Atividades
 - [x] Criação de um repositorio :tada:
 - [x] Fazer funcionar o repositorio :tada:
-- [ ] Pesquisar mais sobre SSH e TREE
+- [ ] Pesquisar mais sobre SSH e TREE :triangular_flag_on_post:
